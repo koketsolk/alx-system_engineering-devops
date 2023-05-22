@@ -1,2 +1,2 @@
 #!/bin/bash
-$(($TRUEKNWOLEDGE + 128))
+echo $(($TRUEKNWOLEDGE + 128))
